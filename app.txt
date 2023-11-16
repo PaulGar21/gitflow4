@@ -9,4 +9,6 @@ Cambio 1 con develop
 
 Cambio 2 con develop  
 
-Cambio 3 con develop
+Cambio 3 con develop 
+
+Cambio con rama release (0.4.0)
